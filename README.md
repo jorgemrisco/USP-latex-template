@@ -2,6 +2,8 @@
 
 Para utilizar o template basta baixá-lo e importar no seu editor de latex preferido. Caso utilize o *overleaf* há uma opção para upload de .zip.
 
+Baixe a última versão na [aba de release](https://github.com/jorgemrisco/USP-latex-template/releases)
+
 ![download_github](Imagens/download.png)
 ![overleaf_upload](Imagens/overleaf.png)
 
