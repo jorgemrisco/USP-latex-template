@@ -17,3 +17,5 @@ Recomendo criar um fork deste repositório para realizar suas mudanças, após a
 [How To: Fork a GitHub Repository & Submit a Pull Request](https://jarv.is/notes/how-to-pull-request-fork-github/)
 
 Sugestões também podem ser deixadas na aba *Issues*
+____________________________
+Aviso: Este modelo não é oficial, apenas compartilho o modelo que chegou em minhas mãos após modificá-lo para maior praticidade de uso pessoal.
